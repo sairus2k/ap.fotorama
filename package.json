@@ -1,0 +1,19 @@
+{
+  "name": "ap.fotorama",
+  "version": "0.0.1",
+  "description": "Angular module for Fotorama jQuery plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sairus2k/ap.fotorama.git"
+  },
+  "author": "tamtakoe@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sairus2k/ap.fotorama/issues"
+  },
+  "homepage": "https://github.com/sairus2k/ap.fotorama#readme"
+}
