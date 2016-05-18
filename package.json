@@ -1,6 +1,6 @@
 {
   "name": "ap.fotorama",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Angular module for Fotorama jQuery plugin",
   "main": "index.js",
   "scripts": {
